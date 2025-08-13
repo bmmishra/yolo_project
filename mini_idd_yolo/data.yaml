@@ -1,6 +1,5 @@
-
-train: C:/Users/Asus/Downloads/ml-app-cicd-main/mini_idd_yolo/images/train
-val: C:/Users/Asus/Downloads/ml-app-cicd-main/mini_idd_yolo/images/val
+train: C:/Users/Asus/Downloads/yolo_project/mini_idd_yolo/images/train
+val: C:/Users/Asus/Downloads/yolo_project/mini_idd_yolo/images/val
 
 nc: 6
-names: ['car', 'bus', 'truck', 'person', 'motorbike', 'bicycle']
+names: ["car", "bus", "truck", "person", "motorbike", "bicycle"]
